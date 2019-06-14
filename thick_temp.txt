@@ -1,0 +1,17 @@
+all events:
+Earthward: 36 events, Tailward: 22 events.
+Thickness (km): 18.389377/ 39.937479/ 128.81111
+Thickness (di): 0.064040343/ 0.18028785/ 0.34656519
+Thickness (de): 2.1556835/ 5.3738410/ 15.859357
+
+inj events:
+Earthward: 13 events, Tailward: 10 events.
+Thickness (km): 25.210821/ 72.273832/ 245.35223
+Thickness (di): 0.067600660/ 0.20249156/ 0.48026722
+Thickness (de): 2.9864183/ 9.1822061/ 22.711085
+
+noinj events:
+Earthward: 8 events, Tailward: 5 events.
+Thickness (km): 16.538069/ 26.999657/ 40.799262
+Thickness (di): 0.071828686/ 0.11335154/ 0.20227252
+Thickness (de): 1.8202062/ 2.2751820/ 3.9540458

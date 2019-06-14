@@ -1,0 +1,1 @@
+1. Localization of DFB: check satellite separation to say only one observed, not the other.

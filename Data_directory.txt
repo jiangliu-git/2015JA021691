@@ -1,0 +1,7 @@
+For MagEIS PA distribution, the path/filename I use is:
+http://www.rbsp-ect.lanl.gov/data_pub/rbsp?/mageis/level3/rbsp?_rel03_ect-mageis-L3_YYYYMMDD_v*.cdf
+
+For hope PA distribution, depending the version of the file, the name varies:
+http://www.rbsp-ect.lanl.gov/data_pub/rbsp?/hope/level3/PA/rbsp?_rel02_ect-hope-PA-L3_YYYYMMDD_v*.cdf
+or
+http://www.rbsp-ect.lanl.gov/data_pub/rbsp?/hope/level3/PA/rbsp?_rel03_ect-hope-PA-L3_YYYYMMDD_v*.cdf -->(newer)
